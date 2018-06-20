@@ -14,12 +14,19 @@ public class Schedule {
 
     public int init() {
         // TODO 方法未实现
+        /**
+         * 获取当前所有任务以及节点信息
+         */
+
         return ReturnCodeKeys.E000;
     }
 
 
     public int registerNode(int nodeId) {
         // TODO 方法未实现
+        /**
+         * 注册方法，应当调用注册接口
+         */
         return ReturnCodeKeys.E000;
     }
 
